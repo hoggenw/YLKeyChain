@@ -1,5 +1,5 @@
 PODS:
-  - YLKeyChain (0.1.0)
+  - YLKeyChain (0.0.1)
 
 DEPENDENCIES:
   - YLKeyChain (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YLKeyChain: 9a68f485319931afe1499ab94738420f91ed381a
+  YLKeyChain: 2531b8f07f2d087c5eaf3746b5ceaa213bad817c
 
 PODFILE CHECKSUM: 877c51bd9238d62d559a3535ae3736e208b50b87
 
