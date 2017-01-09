@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YLKeyChain_Tests' do
+  pod 'YLKeyChain', :path => '../'
+  
+  
+end
