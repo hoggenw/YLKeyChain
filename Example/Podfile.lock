@@ -1,0 +1,16 @@
+PODS:
+  - YLKeyChain (0.1.0)
+
+DEPENDENCIES:
+  - YLKeyChain (from `../`)
+
+EXTERNAL SOURCES:
+  YLKeyChain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YLKeyChain: 9a68f485319931afe1499ab94738420f91ed381a
+
+PODFILE CHECKSUM: 877c51bd9238d62d559a3535ae3736e208b50b87
+
+COCOAPODS: 1.2.0.beta.1

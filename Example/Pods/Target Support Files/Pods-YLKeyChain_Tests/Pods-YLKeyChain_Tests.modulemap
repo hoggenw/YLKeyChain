@@ -1,0 +1,6 @@
+framework module Pods_YLKeyChain_Tests {
+  umbrella header "Pods-YLKeyChain_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
