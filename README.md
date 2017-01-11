@@ -20,9 +20,16 @@ it, simply add the following line to your Podfile:
 pod "YLKeyChain"
 ```
 
-## Author
-
-dev-wangliugen, 253192463@qq.com
+## 调用方法
+```
+   //存入
+    NSString * token = [NSString stringWithFormat: @"3rdsjkvKSDGFht4tinvdjskn"];
+    [YLKeyChain savePassWord:token];
+  //读取
+    NSString* getToken = [YLKeyChain readToken];
+  //删除
+    [YLKeyChain deleteToken];
+```
 
 ## License
 
